@@ -16,9 +16,9 @@ public class MyAccountTest extends TestBase {
 	public void startBrowserSession() {
 		intialization();
 		yourStoreObj = new YourStorePage();
-		accLoginObj = new AccountLoginPage();
+//		accLoginObj = new AccountLoginPage();
 		yourStoreObj.clickMyAccountBtn();
-		yourStoreObj.clickloginBtn();
+		accLoginObj = yourStoreObj.clickloginBtn();
 		myAccObj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
 	}
 

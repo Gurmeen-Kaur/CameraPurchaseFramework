@@ -1,9 +1,12 @@
 package com.SeleniumPractice.AutomationFramework.com.naveenautomation.framework;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.naveenautomation.Base.TestBase;
 
@@ -46,7 +49,7 @@ public class CheckoutPage extends TestBase {
 	@FindBy(id = "button-payment-address")
 	private WebElement clickContinueBtn;
 
-	@FindBy(id = "button-shipping-address")
+	@FindBy(css = "#button-shipping-address")
 	private WebElement deliveryDetailsContinueBtn;
 
 	@FindBy(id = "button-shipping-method")
@@ -62,6 +65,11 @@ public class CheckoutPage extends TestBase {
 	private WebElement confirmBtn;
 
 	public void useNewAddressClick() {
+
+//		WebDriverWait wait = new WebDriverWait(webDriver, 30);
+		getExplicitWaitObj().until(ExpectedConditions
+				.visibilityOfElementLocated(By.cssSelector("form.form-horizontal>div:nth-of-type(3) input")));
+
 		useNewAddress.click();
 	}
 
@@ -106,10 +114,16 @@ public class CheckoutPage extends TestBase {
 	}
 
 	public void deliveryDetailsContinueBtn() {
+//		getExplicitWaitObj()
+//				.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("button-shipping-address")));
 		deliveryDetailsContinueBtn.click();
 	}
 
 	public void deliveryMethodContinueBtn() {
+//		WebDriverWait wait = new WebDriverWait(webDriver, 30);
+		getExplicitWaitObj()
+				.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("#button-shipping-method")));
+
 		deliveryMethodContinueBtn.click();
 	}
 
@@ -150,5 +164,10 @@ public class CheckoutPage extends TestBase {
 	public Select selectObject(WebElement element) {
 		Select sc = new Select(element);
 		return sc;
+	}
+
+	public WebDriverWait getExplicitWaitObj() {
+		WebDriverWait wait = new WebDriverWait(webDriver, 30);
+		return wait;
 	}
 }

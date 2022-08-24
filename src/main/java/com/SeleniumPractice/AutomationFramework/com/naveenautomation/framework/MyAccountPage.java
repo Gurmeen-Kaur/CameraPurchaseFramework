@@ -30,5 +30,6 @@ public class MyAccountPage extends TestBase {
 	public CamerasPage selectCategory() {
 		getTextFromMyAccount();
 		return cameraCategorySelected();
+	
 	}
 }

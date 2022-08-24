@@ -18,11 +18,11 @@ public class CamerasTest extends TestBase {
 		intialization();
 
 		yourStoreObj = new YourStorePage();
-		accLoginObj = new AccountLoginPage();
-		myAccObj = new MyAccountPage();
+//		accLoginObj = new AccountLoginPage();
+//		myAccObj = new MyAccountPage();
 		yourStoreObj.clickMyAccountBtn();
-		yourStoreObj.clickloginBtn();
-		accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
+		accLoginObj = yourStoreObj.clickloginBtn();
+		myAccObj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
 		cameraPageObj = myAccObj.selectCategory();
 	}
 

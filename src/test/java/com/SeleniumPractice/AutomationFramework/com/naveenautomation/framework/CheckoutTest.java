@@ -18,13 +18,14 @@ public class CheckoutTest extends TestBase {
 	public void startBrowserSession() {
 		intialization();
 		yourStoreObj = new YourStorePage();
-		accLoginObj = new AccountLoginPage();
-		myAccObj = new MyAccountPage();
-		cameraPageObj = new CamerasPage();
 		yourStoreObj.clickMyAccountBtn();
-		yourStoreObj.clickloginBtn();
-		accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
-		myAccObj.selectCategory();
+		accLoginObj = yourStoreObj.clickloginBtn();
+		myAccObj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
+		// accLoginObj = new AccountLoginPage();
+		// myAccObj = new MyAccountPage();
+		// cameraPageObj = new CamerasPage();
+
+		cameraPageObj = myAccObj.selectCategory();
 		checkoutPageObj = cameraPageObj.goToCheckOutPage();
 	}
 
