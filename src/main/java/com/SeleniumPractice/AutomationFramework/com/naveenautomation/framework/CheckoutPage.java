@@ -52,7 +52,7 @@ public class CheckoutPage extends TestBase {
 	@FindBy(css = "#button-shipping-address")
 	private WebElement deliveryDetailsContinueBtn;
 
-	@FindBy(id = "button-shipping-method")
+	@FindBy(css = "#collapse-shipping-method>div>div:last-of-type input")
 	private WebElement deliveryMethodContinueBtn;
 
 	@FindBy(css = "#collapse-payment-method>div>div.buttons input:first-of-type")
@@ -121,8 +121,8 @@ public class CheckoutPage extends TestBase {
 
 	public void deliveryMethodContinueBtn() {
 //		WebDriverWait wait = new WebDriverWait(webDriver, 30);
-		getExplicitWaitObj()
-				.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("#button-shipping-method")));
+		getExplicitWaitObj().until(ExpectedConditions
+				.visibilityOfElementLocated(By.cssSelector("#collapse-shipping-method>div>div:last-of-type input")));
 
 		deliveryMethodContinueBtn.click();
 	}
@@ -132,6 +132,8 @@ public class CheckoutPage extends TestBase {
 	}
 
 	public void paymentMethodContinueBtn() {
+		getExplicitWaitObj().until(ExpectedConditions.visibilityOfAllElementsLocatedBy(
+				By.cssSelector("#collapse-payment-method>div>div.buttons input:first-of-type")));
 		paymentMethodContinue.click();
 	}
 
