@@ -1387,3 +1387,599 @@ Session ID: 9370b92edfb626f0a5ee7533a573d939
 2022-08-25 04:09:36 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (60002d9e25c72facf92acb31cd573f3e)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
 2022-08-25 04:09:37 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (60002d9e25c72facf92acb31cd573f3e)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
 2022-08-25 04:09:37 INFO  TestBase:17 - Test has passed successfully.....addToCartTest
+2022-08-25 20:49:55 INFO  TestBase:37 - Navigating to URLdata:,
+2022-08-25 20:49:59 INFO  TestBase:42 - Navigated to URLhttps://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-08-25 20:49:59 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:49:59 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-25 20:49:59 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-25 20:49:59 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-25 20:49:59 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:49:59 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-25 20:49:59 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-25 20:49:59 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-25 20:49:59 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:49:59 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> id: input-email]
+2022-08-25 20:50:00 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:00 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> id: input-password]
+2022-08-25 20:50:00 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:00 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: input[type='submit']]
+2022-08-25 20:50:00 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: input[type='submit']]
+2022-08-25 20:50:01 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: input[type='submit']]
+2022-08-25 20:50:01 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:01 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #content h2]
+2022-08-25 20:50:01 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #content h2]
+2022-08-25 20:50:01 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #content h2] : My Account
+2022-08-25 20:50:01 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:01 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-25 20:50:01 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-25 20:50:01 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-25 20:50:01 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:01 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-25 20:50:01 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-25 20:50:02 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-25 20:50:02 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:02 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-25 20:50:02 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-25 20:50:02 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-25 20:50:02 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:03 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: form.form-horizontal>div:nth-of-type(3) input]
+2022-08-25 20:50:03 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:03 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: form.form-horizontal>div:nth-of-type(3) input]
+2022-08-25 20:50:03 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:03 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: form.form-horizontal>div:nth-of-type(3) input]
+2022-08-25 20:50:03 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: form.form-horizontal>div:nth-of-type(3) input]
+2022-08-25 20:50:03 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: form.form-horizontal>div:nth-of-type(3) input]
+2022-08-25 20:50:03 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:03 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-firstname]
+2022-08-25 20:50:03 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:03 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-lastname]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-company]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-address-1]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-address-2]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-city]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-postcode]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-country]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-country]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-country]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-country]
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-country]
+2022-08-25 20:50:04 INFO  TestBase:96 - clicking WebElement.....[[[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-country]] -> xpath: .//option[normalize-space(.) = "Canada"]]
+2022-08-25 20:50:04 INFO  TestBase:101 - Clicked on WebElement.....[[[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-country]] -> xpath: .//option[normalize-space(.) = "Canada"]]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-zone]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-zone]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:04 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-zone]
+2022-08-25 20:50:04 INFO  TestBase:84 - Finding WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-zone]
+2022-08-25 20:50:05 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-zone]
+2022-08-25 20:50:05 INFO  TestBase:96 - clicking WebElement.....[[[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-zone]] -> xpath: .//option[normalize-space(.) = "Ontario"]]
+2022-08-25 20:50:05 INFO  TestBase:101 - Clicked on WebElement.....[[[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #input-payment-zone]] -> xpath: .//option[normalize-space(.) = "Ontario"]]
+2022-08-25 20:50:05 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:05 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> id: button-payment-address]
+2022-08-25 20:50:05 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> id: button-payment-address]
+2022-08-25 20:50:05 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> id: button-payment-address]
+2022-08-25 20:50:05 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:05 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #button-shipping-address]
+2022-08-25 20:50:05 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #button-shipping-address]
+2022-08-25 20:50:06 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #button-shipping-address]
+2022-08-25 20:50:06 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:06 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #collapse-shipping-method>div>div:last-of-type input]
+2022-08-25 20:50:07 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:07 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #collapse-shipping-method>div>div:last-of-type input]
+2022-08-25 20:50:07 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:07 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #collapse-shipping-method>div>div:last-of-type input]
+2022-08-25 20:50:07 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #collapse-shipping-method>div>div:last-of-type input]
+2022-08-25 20:50:07 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #collapse-shipping-method>div>div:last-of-type input]
+2022-08-25 20:50:07 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:07 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #collapse-payment-method>div>div.buttons input:first-of-type]
+2022-08-25 20:50:07 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #collapse-payment-method>div>div.buttons input:first-of-type]
+2022-08-25 20:50:08 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #collapse-payment-method>div>div.buttons input:first-of-type]
+2022-08-25 20:50:08 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:08 INFO  TestBase:90 - WebElement found.....null
+2022-08-25 20:50:08 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:08 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> id: button-payment-method]
+2022-08-25 20:50:08 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> id: button-payment-method]
+2022-08-25 20:50:08 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> id: button-payment-method]
+2022-08-25 20:50:08 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:08 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> id: button-confirm]
+2022-08-25 20:50:08 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> id: button-confirm]
+2022-08-25 20:50:09 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> id: button-confirm]
+2022-08-25 20:50:09 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-25 20:50:10 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #common-success h1]
+2022-08-25 20:50:10 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #common-success h1]
+2022-08-25 20:50:10 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (5fc37e838befd85098fa1555ac99a9c0)] -> css selector: #common-success h1] : Your order has been placed!
+2022-08-27 01:50:35 INFO  TestBase:37 - Navigating to URLdata:,
+2022-08-27 01:50:42 INFO  TestBase:42 - Navigated to URLhttps://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-08-27 01:50:42 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:50:42 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:50:42 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:50:43 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:50:43 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:50:43 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:50:43 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:50:45 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:50:45 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:50:45 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> id: input-email]
+2022-08-27 01:50:46 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:50:46 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> id: input-password]
+2022-08-27 01:50:46 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:50:46 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: input[type='submit']]
+2022-08-27 01:50:46 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: input[type='submit']]
+2022-08-27 01:50:56 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: input[type='submit']]
+2022-08-27 01:50:56 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:50:56 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: #content >ul:first-of-type>li:nth-of-type(2) a]
+2022-08-27 01:50:56 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: #content >ul:first-of-type>li:nth-of-type(2) a]
+2022-08-27 01:50:57 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: #content >ul:first-of-type>li:nth-of-type(2) a]
+2022-08-27 01:50:57 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:50:57 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: #input-password]
+2022-08-27 01:50:57 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:50:57 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: #input-confirm]
+2022-08-27 01:50:57 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:50:57 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: div.buttons.clearfix input]
+2022-08-27 01:50:57 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: div.buttons.clearfix input]
+2022-08-27 01:50:59 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (20984cc926500b1e4fa72561c06fad4e)] -> css selector: div.buttons.clearfix input]
+2022-08-27 01:54:13 INFO  TestBase:37 - Navigating to URLdata:,
+2022-08-27 01:54:17 INFO  TestBase:42 - Navigated to URLhttps://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-08-27 01:54:17 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:18 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:54:18 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:54:18 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:54:18 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:18 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:54:18 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:54:18 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:54:18 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:18 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> id: input-email]
+2022-08-27 01:54:18 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:18 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> id: input-password]
+2022-08-27 01:54:18 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:18 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: input[type='submit']]
+2022-08-27 01:54:18 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: input[type='submit']]
+2022-08-27 01:54:19 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: input[type='submit']]
+2022-08-27 01:54:19 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:19 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: #content>ul:nth-of-type(2)>li:first-of-type a]
+2022-08-27 01:54:19 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: #content>ul:nth-of-type(2)>li:first-of-type a]
+2022-08-27 01:54:20 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: #content>ul:nth-of-type(2)>li:first-of-type a]
+2022-08-27 01:54:20 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:20 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Order ID
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Customer
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : No. of Products
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Status
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Total
+2022-08-27 01:54:20 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:20 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Order ID
+2022-08-27 01:54:20 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:20 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 01:54:20 INFO  TestBase:84 - Finding WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 01:54:20 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : #1427
+2022-08-27 01:54:20 INFO  TestBase:84 - Finding WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 01:54:20 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : #1426
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : $302.00
+2022-08-27 01:54:20 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:20 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Order ID
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Customer
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : No. of Products
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Status
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Total
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Date Added
+2022-08-27 01:54:20 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:20 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Order ID
+2022-08-27 01:54:20 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:20 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 01:54:20 INFO  TestBase:84 - Finding WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 01:54:20 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : #1427
+2022-08-27 01:54:20 INFO  TestBase:84 - Finding WebElement.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 01:54:20 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : #1426
+2022-08-27 01:54:20 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 01:54:20 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (c8b18e6a1b4bc51589202cee48bc4c6e)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : 25/08/2022
+2022-08-27 01:54:42 INFO  TestBase:37 - Navigating to URLdata:,
+2022-08-27 01:54:54 INFO  TestBase:42 - Navigated to URLhttps://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-08-27 01:54:54 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:54 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:54:54 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:54:54 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:54:54 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:54 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:54:54 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:54:54 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:54:54 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:54 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> id: input-email]
+2022-08-27 01:54:55 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:55 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> id: input-password]
+2022-08-27 01:54:55 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:55 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: input[type='submit']]
+2022-08-27 01:54:55 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: input[type='submit']]
+2022-08-27 01:54:56 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: input[type='submit']]
+2022-08-27 01:54:56 INFO  TestBase:12 - Test execution has started.....cameraCategoryClickTest
+2022-08-27 01:54:56 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:56 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: #content h2]
+2022-08-27 01:54:56 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: #content h2]
+2022-08-27 01:54:56 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: #content h2] : My Account
+2022-08-27 01:54:56 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:54:56 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:54:56 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:54:56 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (72da16cca96dff6293e19144e6f01678)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:54:56 INFO  TestBase:17 - Test has passed successfully.....cameraCategoryClickTest
+2022-08-27 01:54:59 INFO  TestBase:37 - Navigating to URLdata:,
+2022-08-27 01:55:02 INFO  TestBase:42 - Navigated to URLhttps://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-08-27 01:55:02 INFO  TestBase:12 - Test execution has started.....clickMyAccountTest
+2022-08-27 01:55:02 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:02 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (dbcef4e84efe69817a2fbed483d34bf9)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:55:02 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (dbcef4e84efe69817a2fbed483d34bf9)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:55:02 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (dbcef4e84efe69817a2fbed483d34bf9)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:55:02 INFO  TestBase:17 - Test has passed successfully.....clickMyAccountTest
+2022-08-27 01:55:04 INFO  TestBase:37 - Navigating to URLdata:,
+2022-08-27 01:55:08 INFO  TestBase:42 - Navigated to URLhttps://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-08-27 01:55:08 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:08 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:55:08 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:55:08 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:55:08 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:08 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:55:08 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:55:09 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:55:09 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:09 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> id: input-email]
+2022-08-27 01:55:09 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:09 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> id: input-password]
+2022-08-27 01:55:09 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:09 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: input[type='submit']]
+2022-08-27 01:55:09 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: input[type='submit']]
+2022-08-27 01:55:10 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: input[type='submit']]
+2022-08-27 01:55:10 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:10 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: #content h2]
+2022-08-27 01:55:10 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: #content h2]
+2022-08-27 01:55:10 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: #content h2] : My Account
+2022-08-27 01:55:10 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:10 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:55:10 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:55:11 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:55:11 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:11 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:55:11 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:55:11 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:55:11 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:11 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:55:11 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:55:12 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (cccd166b883c6d0cd1fdf38f41380ed7)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:55:12 INFO  TestBase:12 - Test execution has started.....checkoutConfirmTest
+2022-08-27 01:55:12 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:22 INFO  TestBase:140 - Exception encontered.....no such element: Unable to locate element: {"method":"css selector","selector":"form.form-horizontal>div:nth-of-type(3) input"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5OB646OF', ip: '192.168.68.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\user1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53127}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cccd166b883c6d0cd1fdf38f41380ed7
+*** Element info: {Using=css selector, value=form.form-horizontal>div:nth-of-type(3) input}
+2022-08-27 01:55:22 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:32 INFO  TestBase:140 - Exception encontered.....no such element: Unable to locate element: {"method":"css selector","selector":"form.form-horizontal>div:nth-of-type(3) input"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5OB646OF', ip: '192.168.68.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\user1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53127}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cccd166b883c6d0cd1fdf38f41380ed7
+*** Element info: {Using=css selector, value=form.form-horizontal>div:nth-of-type(3) input}
+2022-08-27 01:55:33 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:43 INFO  TestBase:140 - Exception encontered.....no such element: Unable to locate element: {"method":"css selector","selector":"form.form-horizontal>div:nth-of-type(3) input"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5OB646OF', ip: '192.168.68.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\user1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53127}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cccd166b883c6d0cd1fdf38f41380ed7
+*** Element info: {Using=css selector, value=form.form-horizontal>div:nth-of-type(3) input}
+2022-08-27 01:55:43 INFO  TestBase:15 - Test has failed. Retrying again checkoutConfirmTest
+2022-08-27 01:55:43 INFO  TestBase:29 - Test has been skipped.....checkoutConfirmTest
+2022-08-27 01:55:45 INFO  TestBase:37 - Navigating to URLdata:,
+2022-08-27 01:55:49 INFO  TestBase:42 - Navigated to URLhttps://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-08-27 01:55:49 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:49 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:55:49 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:55:49 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:55:49 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:49 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:55:49 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:55:50 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:55:50 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:50 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> id: input-email]
+2022-08-27 01:55:50 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:50 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> id: input-password]
+2022-08-27 01:55:50 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:50 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: input[type='submit']]
+2022-08-27 01:55:50 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: input[type='submit']]
+2022-08-27 01:55:51 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: input[type='submit']]
+2022-08-27 01:55:51 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:51 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: #content h2]
+2022-08-27 01:55:51 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: #content h2]
+2022-08-27 01:55:51 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: #content h2] : My Account
+2022-08-27 01:55:51 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:51 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:55:51 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:55:52 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:55:52 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:52 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:55:52 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:55:52 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:55:52 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:55:52 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:55:52 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:55:52 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (081e622b34b4d6821dbcdb0fb106f50b)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:55:53 INFO  TestBase:12 - Test execution has started.....checkoutConfirmTest
+2022-08-27 01:55:53 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:03 INFO  TestBase:140 - Exception encontered.....no such element: Unable to locate element: {"method":"css selector","selector":"form.form-horizontal>div:nth-of-type(3) input"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5OB646OF', ip: '192.168.68.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\user1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53199}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 081e622b34b4d6821dbcdb0fb106f50b
+*** Element info: {Using=css selector, value=form.form-horizontal>div:nth-of-type(3) input}
+2022-08-27 01:56:03 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:13 INFO  TestBase:140 - Exception encontered.....no such element: Unable to locate element: {"method":"css selector","selector":"form.form-horizontal>div:nth-of-type(3) input"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5OB646OF', ip: '192.168.68.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\user1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53199}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 081e622b34b4d6821dbcdb0fb106f50b
+*** Element info: {Using=css selector, value=form.form-horizontal>div:nth-of-type(3) input}
+2022-08-27 01:56:14 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:24 INFO  TestBase:140 - Exception encontered.....no such element: Unable to locate element: {"method":"css selector","selector":"form.form-horizontal>div:nth-of-type(3) input"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5OB646OF', ip: '192.168.68.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\user1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53199}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 081e622b34b4d6821dbcdb0fb106f50b
+*** Element info: {Using=css selector, value=form.form-horizontal>div:nth-of-type(3) input}
+2022-08-27 01:56:24 INFO  TestBase:15 - Test has failed. Retrying again checkoutConfirmTest
+2022-08-27 01:56:24 INFO  TestBase:22 - Test has failed and is taking screenshot.....checkoutConfirmTest
+2022-08-27 01:56:26 INFO  TestBase:37 - Navigating to URLdata:,
+2022-08-27 01:56:29 INFO  TestBase:42 - Navigated to URLhttps://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-08-27 01:56:29 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:29 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:56:29 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:56:29 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:56:29 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:29 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:56:29 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:56:29 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:56:29 INFO  TestBase:12 - Test execution has started.....accountLoginTest
+2022-08-27 01:56:29 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:29 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> id: input-email]
+2022-08-27 01:56:30 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:30 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> id: input-password]
+2022-08-27 01:56:30 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:30 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: input[type='submit']]
+2022-08-27 01:56:30 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: input[type='submit']]
+2022-08-27 01:56:31 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: input[type='submit']]
+2022-08-27 01:56:31 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:31 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: #content h2]
+2022-08-27 01:56:31 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: #content h2]
+2022-08-27 01:56:31 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (dbf55dfd9aa253c325b3edeedac7df22)] -> css selector: #content h2] : My Account
+2022-08-27 01:56:31 INFO  TestBase:17 - Test has passed successfully.....accountLoginTest
+2022-08-27 01:56:33 INFO  TestBase:37 - Navigating to URLdata:,
+2022-08-27 01:56:37 INFO  TestBase:42 - Navigated to URLhttps://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-08-27 01:56:37 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:37 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:56:37 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:56:37 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:56:37 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:37 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:56:37 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:56:37 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:56:37 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:37 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> id: input-email]
+2022-08-27 01:56:37 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:37 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> id: input-password]
+2022-08-27 01:56:37 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:37 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: input[type='submit']]
+2022-08-27 01:56:37 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: input[type='submit']]
+2022-08-27 01:56:38 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: input[type='submit']]
+2022-08-27 01:56:38 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:38 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: #content h2]
+2022-08-27 01:56:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: #content h2]
+2022-08-27 01:56:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: #content h2] : My Account
+2022-08-27 01:56:38 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:38 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:56:38 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:56:39 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:56:39 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:39 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:56:39 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:56:39 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:56:39 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:39 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:56:39 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:56:40 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (ed7db5e36f6a082ab66f5a3cccd51e3a)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:56:40 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:56:50 INFO  TestBase:140 - Exception encontered.....no such element: Unable to locate element: {"method":"css selector","selector":"form.form-horizontal>div:nth-of-type(3) input"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5OB646OF', ip: '192.168.68.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\user1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53334}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed7db5e36f6a082ab66f5a3cccd51e3a
+*** Element info: {Using=css selector, value=form.form-horizontal>div:nth-of-type(3) input}
+2022-08-27 01:56:50 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:57:00 INFO  TestBase:140 - Exception encontered.....no such element: Unable to locate element: {"method":"css selector","selector":"form.form-horizontal>div:nth-of-type(3) input"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5OB646OF', ip: '192.168.68.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\user1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53334}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed7db5e36f6a082ab66f5a3cccd51e3a
+*** Element info: {Using=css selector, value=form.form-horizontal>div:nth-of-type(3) input}
+2022-08-27 01:57:01 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:57:11 INFO  TestBase:140 - Exception encontered.....no such element: Unable to locate element: {"method":"css selector","selector":"form.form-horizontal>div:nth-of-type(3) input"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5OB646OF', ip: '192.168.68.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\user1\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53334}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed7db5e36f6a082ab66f5a3cccd51e3a
+*** Element info: {Using=css selector, value=form.form-horizontal>div:nth-of-type(3) input}
+2022-08-27 01:57:11 INFO  TestBase:12 - Test execution has started.....verifyOrderIsPlacedSuccessfullyTest
+2022-08-27 01:57:11 INFO  TestBase:29 - Test has been skipped.....verifyOrderIsPlacedSuccessfullyTest
+2022-08-27 01:57:12 INFO  TestBase:37 - Navigating to URLdata:,
+2022-08-27 01:57:15 INFO  TestBase:42 - Navigated to URLhttps://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-08-27 01:57:15 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:57:15 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:57:15 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:57:15 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 01:57:15 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:57:15 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:57:15 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:57:16 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 01:57:16 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:57:16 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> id: input-email]
+2022-08-27 01:57:16 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:57:16 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> id: input-password]
+2022-08-27 01:57:16 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:57:16 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: input[type='submit']]
+2022-08-27 01:57:16 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: input[type='submit']]
+2022-08-27 01:57:17 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: input[type='submit']]
+2022-08-27 01:57:17 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:57:17 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: #content h2]
+2022-08-27 01:57:17 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: #content h2]
+2022-08-27 01:57:17 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: #content h2] : My Account
+2022-08-27 01:57:17 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:57:17 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:57:17 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:57:18 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: ul.nav.navbar-nav>li:nth-of-type(7)>a]
+2022-08-27 01:57:18 INFO  TestBase:12 - Test execution has started.....addToCartTest
+2022-08-27 01:57:18 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:57:18 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:57:18 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:57:18 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: div.product-layout:last-of-type button:first-of-type]
+2022-08-27 01:57:18 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 01:57:18 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:57:18 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:57:19 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (4c9d460f695af27c692f2a07c2cae66d)] -> css selector: ul.list-inline >li:nth-of-type(5) span]
+2022-08-27 01:57:19 INFO  TestBase:17 - Test has passed successfully.....addToCartTest
+2022-08-27 02:04:31 INFO  TestBase:37 - Navigating to URLdata:,
+2022-08-27 02:04:35 INFO  TestBase:42 - Navigated to URLhttps://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-08-27 02:04:35 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:35 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 02:04:35 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 02:04:35 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-08-27 02:04:35 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:35 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 02:04:35 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 02:04:36 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: #top-links ul.dropdown-menu li:last-of-type]
+2022-08-27 02:04:36 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:36 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> id: input-email]
+2022-08-27 02:04:36 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:36 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> id: input-password]
+2022-08-27 02:04:36 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:36 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: input[type='submit']]
+2022-08-27 02:04:36 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: input[type='submit']]
+2022-08-27 02:04:37 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: input[type='submit']]
+2022-08-27 02:04:37 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:37 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: #content>ul:nth-of-type(2)>li:first-of-type a]
+2022-08-27 02:04:37 INFO  TestBase:96 - clicking WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: #content>ul:nth-of-type(2)>li:first-of-type a]
+2022-08-27 02:04:38 INFO  TestBase:101 - Clicked on WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: #content>ul:nth-of-type(2)>li:first-of-type a]
+2022-08-27 02:04:38 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:38 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Order ID
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Customer
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : No. of Products
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Status
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Total
+2022-08-27 02:04:38 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:38 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Order ID
+2022-08-27 02:04:38 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:38 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 02:04:38 INFO  TestBase:84 - Finding WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 02:04:38 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : #1427
+2022-08-27 02:04:38 INFO  TestBase:84 - Finding WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 02:04:38 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : #1426
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : $302.00
+2022-08-27 02:04:38 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:38 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Order ID
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Customer
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : No. of Products
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Status
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Total
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Date Added
+2022-08-27 02:04:38 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:38 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] thead td] : Order ID
+2022-08-27 02:04:38 INFO  TestBase:84 - Finding WebElement.....null
+2022-08-27 02:04:38 INFO  TestBase:90 - WebElement found.....null
+2022-08-27 02:04:38 INFO  TestBase:84 - Finding WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 02:04:38 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : #1427
+2022-08-27 02:04:38 INFO  TestBase:84 - Finding WebElement.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 02:04:38 INFO  TestBase:90 - WebElement found.....[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : #1426
+2022-08-27 02:04:38 INFO  TestBase:157 - Getting text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td]
+2022-08-27 02:04:38 INFO  TestBase:162 - Got text from.....[[[[ChromeDriver: chrome on WINDOWS (45a1ae0649fae1d01482d6c8881b76a3)] -> css selector: table[class='table table-bordered table-hover'] tbody tr]] -> tag name: td] : 25/08/2022

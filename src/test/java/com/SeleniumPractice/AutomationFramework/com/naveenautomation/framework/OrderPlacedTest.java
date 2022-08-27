@@ -29,7 +29,7 @@ public class OrderPlacedTest extends TestBase {
 	}
 
 	@Test
-	public void isSuccessMessageDisplayed() {
+	public void verifyOrderIsPlacedSuccessfullyTest() {
 		String message = orderPlacedObj.getMessageDisplayed();
 		Assert.assertEquals(message, "Your order has been placed!");
 	}

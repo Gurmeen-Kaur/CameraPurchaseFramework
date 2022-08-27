@@ -6,27 +6,26 @@ import org.testng.annotations.Test;
 
 import com.naveenautomation.Base.TestBase;
 
-public class CamerasTest extends TestBase {
+public class ChangePasswordTest extends TestBase {
 
 	YourStorePage yourStoreObj;
 	AccountLoginPage accLoginObj;
-	MyAccountPage myAccObj;
-	CamerasPage cameraPageObj;
+	MyAccountPage myAccPageobj;
+	ChangePasswordPage changePasswordPage;
 
 	@BeforeMethod
 	public void startBrowserSession() {
 		intialization();
-
 		yourStoreObj = new YourStorePage();
 		yourStoreObj.clickMyAccountBtn();
 		accLoginObj = yourStoreObj.clickloginBtn();
-		myAccObj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
-		cameraPageObj = myAccObj.selectCategory();
+		myAccPageobj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
+		changePasswordPage = myAccPageobj.clickChangeYourPassword();
 	}
 
 	@Test
-	public void addToCartTest() {
-		cameraPageObj.goToCheckOutPage();
+	public void verifyPasswordChangeTest() {
+		changePasswordPage.passwordChange("Password@123");
 	}
 
 	@AfterMethod
