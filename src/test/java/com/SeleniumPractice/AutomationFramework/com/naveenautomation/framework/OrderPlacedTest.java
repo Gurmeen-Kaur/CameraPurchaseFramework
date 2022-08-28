@@ -19,6 +19,10 @@ public class OrderPlacedTest extends TestBase {
 	public void startBrowserSession() {
 		intialization();
 		yourStoreObj = new YourStorePage();
+	}
+
+	@Test
+	public void verifyOrderIsPlacedSuccessfullyTest() {
 		yourStoreObj.clickMyAccountBtn();
 		accLoginObj = yourStoreObj.clickloginBtn();
 		myAccObj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
@@ -26,10 +30,7 @@ public class OrderPlacedTest extends TestBase {
 		checkoutPageObj = cameraPageObj.goToCheckOutPage();
 		orderPlacedObj = checkoutPageObj.checkoutTest("Gurmeen", "Kaur", "ABS", "123", "Main Street", "Waterloo",
 				"LPI2N6", "Canada", "Ontario");
-	}
 
-	@Test
-	public void verifyOrderIsPlacedSuccessfullyTest() {
 		String message = orderPlacedObj.getMessageDisplayed();
 		Assert.assertEquals(message, "Your order has been placed!");
 	}

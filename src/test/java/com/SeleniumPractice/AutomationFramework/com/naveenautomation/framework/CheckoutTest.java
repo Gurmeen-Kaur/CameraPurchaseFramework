@@ -18,19 +18,15 @@ public class CheckoutTest extends TestBase {
 	public void startBrowserSession() {
 		intialization();
 		yourStoreObj = new YourStorePage();
-		yourStoreObj.clickMyAccountBtn();
-		accLoginObj = yourStoreObj.clickloginBtn();
-		myAccObj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
-		// accLoginObj = new AccountLoginPage();
-		// myAccObj = new MyAccountPage();
-		// cameraPageObj = new CamerasPage();
-
-		cameraPageObj = myAccObj.selectCategory();
-		checkoutPageObj = cameraPageObj.goToCheckOutPage();
 	}
 
 	@Test
 	public void checkoutConfirmTest() {
+		yourStoreObj.clickMyAccountBtn();
+		accLoginObj = yourStoreObj.clickloginBtn();
+		myAccObj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
+		cameraPageObj = myAccObj.selectCategory();
+		checkoutPageObj = cameraPageObj.goToCheckOutPage();
 		checkoutPageObj.checkoutTest("Gurmeen", "Kaur", "ABS", "123", "Main Street", "Waterloo", "LPI2N6", "Canada",
 				"Ontario");
 	}

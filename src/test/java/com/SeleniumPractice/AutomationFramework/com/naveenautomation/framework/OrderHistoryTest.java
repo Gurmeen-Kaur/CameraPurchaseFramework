@@ -18,15 +18,16 @@ public class OrderHistoryTest extends TestBase {
 	public void startBrowserSession() {
 		intialization();
 		yourStoreObj = new YourStorePage();
+	}
+
+	@Test
+	public void verifyTotalAndOrderDate() {
+
 		accLoginObj = new AccountLoginPage();
 		yourStoreObj.clickMyAccountBtn();
 		yourStoreObj.clickloginBtn();
 		myAccPageobj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
 		orderHistoryPage = myAccPageobj.viewOrderHistoryBtnClick();
-	}
-
-	@Test
-	public void verifyTotalAndOrderDate() {
 
 		String orderTotal = orderHistoryPage.getTotalFromTable("#1426");
 		Assert.assertEquals(orderTotal, "$302.00");

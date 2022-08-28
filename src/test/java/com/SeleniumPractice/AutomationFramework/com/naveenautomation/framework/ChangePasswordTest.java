@@ -17,14 +17,14 @@ public class ChangePasswordTest extends TestBase {
 	public void startBrowserSession() {
 		intialization();
 		yourStoreObj = new YourStorePage();
-		yourStoreObj.clickMyAccountBtn();
-		accLoginObj = yourStoreObj.clickloginBtn();
-		myAccPageobj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
-		changePasswordPage = myAccPageobj.clickChangeYourPassword();
 	}
 
 	@Test
 	public void verifyPasswordChangeTest() {
+		yourStoreObj.clickMyAccountBtn();
+		accLoginObj = yourStoreObj.clickloginBtn();
+		myAccPageobj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
+		changePasswordPage = myAccPageobj.clickChangeYourPassword();
 		changePasswordPage.passwordChange("Password@123");
 	}
 

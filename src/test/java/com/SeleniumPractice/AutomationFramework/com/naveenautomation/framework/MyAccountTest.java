@@ -16,15 +16,13 @@ public class MyAccountTest extends TestBase {
 	public void startBrowserSession() {
 		intialization();
 		yourStoreObj = new YourStorePage();
-//		accLoginObj = new AccountLoginPage();
-		yourStoreObj.clickMyAccountBtn();
-		accLoginObj = yourStoreObj.clickloginBtn();
-		myAccObj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
 	}
 
 	@Test
 	public void cameraCategoryClickTest() {
-
+		yourStoreObj.clickMyAccountBtn();
+		accLoginObj = yourStoreObj.clickloginBtn();
+		myAccObj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
 		myAccObj.selectCategory();
 
 	}

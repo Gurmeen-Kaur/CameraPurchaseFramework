@@ -16,16 +16,15 @@ public class CamerasTest extends TestBase {
 	@BeforeMethod
 	public void startBrowserSession() {
 		intialization();
-
 		yourStoreObj = new YourStorePage();
-		yourStoreObj.clickMyAccountBtn();
-		accLoginObj = yourStoreObj.clickloginBtn();
-		myAccObj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
-		cameraPageObj = myAccObj.selectCategory();
 	}
 
 	@Test
 	public void addToCartTest() {
+		yourStoreObj.clickMyAccountBtn();
+		accLoginObj = yourStoreObj.clickloginBtn();
+		myAccObj = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
+		cameraPageObj = myAccObj.selectCategory();
 		cameraPageObj.goToCheckOutPage();
 	}
 

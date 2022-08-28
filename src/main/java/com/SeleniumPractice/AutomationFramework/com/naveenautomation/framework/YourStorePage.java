@@ -5,6 +5,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.naveenautomation.Base.TestBase;
+import com.naveenautomation.Utils.Utils;
 
 public class YourStorePage extends TestBase {
 
@@ -18,12 +19,20 @@ public class YourStorePage extends TestBase {
 	@FindBy(css = "#top-links ul.dropdown-menu li:last-of-type")
 	private WebElement loginBtn;
 
+	@FindBy(css = "li.dropdown.open>ul>li:first-of-type a")
+	private WebElement clickRegister;
+
 	public void clickMyAccountBtn() {
-		clickMyAccount.click();
+		Utils.click(clickMyAccount);
+	}
+
+	public RegisterAccountPage clickRegister() {
+		Utils.click(clickRegister);
+		return new RegisterAccountPage();
 	}
 
 	public AccountLoginPage clickloginBtn() {
-		loginBtn.click();
+		Utils.click(loginBtn);
 		return new AccountLoginPage();
 	}
 

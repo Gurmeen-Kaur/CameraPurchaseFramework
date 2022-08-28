@@ -5,6 +5,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.naveenautomation.Base.TestBase;
+import com.naveenautomation.Utils.Utils;
 
 public class MyAccountPage extends TestBase {
 
@@ -25,21 +26,21 @@ public class MyAccountPage extends TestBase {
 	private WebElement viewOrderHistory;
 
 	public String getTextFromMyAccount() {
-		return myAccountText.getText();
+		return Utils.getText(myAccountText);
 	}
 
 	public ChangePasswordPage clickChangeYourPassword() {
-		changeYourPassword.click();
+		Utils.click(changeYourPassword);
 		return new ChangePasswordPage();
 	}
 
 	public OrderHistoryPage viewOrderHistoryBtnClick() {
-		viewOrderHistory.click();
+		Utils.click(viewOrderHistory);
 		return new OrderHistoryPage();
 	}
 
 	public CamerasPage cameraCategorySelected() {
-		cameraCategorySelected.click();
+		Utils.click(cameraCategorySelected);
 		return new CamerasPage();
 	}
 

@@ -17,14 +17,14 @@ public class AccountLoginTest extends TestBase {
 	public void startBrowser() {
 		intialization();
 		yourStoreObj = new YourStorePage();
-		yourStoreObj.clickMyAccountBtn();
-		accLoginObj = yourStoreObj.clickloginBtn();
 	}
 
 	@Test
 	public void accountLoginTest() {
 
-		MyAccountPage mAPage= accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
+		yourStoreObj.clickMyAccountBtn();
+		accLoginObj = yourStoreObj.clickloginBtn();
+		MyAccountPage mAPage = accLoginObj.accountLogin("g4545@gmail.com", "Password@123");
 		Assert.assertEquals(mAPage.getTextFromMyAccount(), "My Account");
 	}
 

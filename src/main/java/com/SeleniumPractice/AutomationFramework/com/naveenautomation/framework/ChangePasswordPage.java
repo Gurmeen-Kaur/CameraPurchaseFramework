@@ -5,9 +5,10 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.naveenautomation.Base.TestBase;
+import com.naveenautomation.Utils.Utils;
 
-public class ChangePasswordPage extends TestBase{
-	
+public class ChangePasswordPage extends TestBase {
+
 	public ChangePasswordPage() {
 		PageFactory.initElements(webDriver, this);
 	}
@@ -20,15 +21,15 @@ public class ChangePasswordPage extends TestBase{
 	private WebElement continueBtn;
 
 	public void passwordInputSendKeys(String newPassword) {
-		passwordInputField.sendKeys(newPassword);
+		Utils.sendKeys(passwordInputField, newPassword);
 	}
 
 	public void passwordConfirmSendKeys(String newPassword) {
-		passwordConfirmInputField.sendKeys(newPassword);
+		Utils.sendKeys(passwordConfirmInputField, newPassword);
 	}
 
 	public MyAccountPage continueBtnClick() {
-		continueBtn.click();
+		Utils.click(continueBtn);
 		return new MyAccountPage();
 	}
 
